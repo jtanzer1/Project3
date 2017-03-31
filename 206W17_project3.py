@@ -32,7 +32,7 @@ auth.set_access_token(access_token, access_token_secret)
 # Set up library to grab stuff from twitter with your authentication, and return it in a JSON format 
 api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
-##### END TWEEPY SETUP CODE
+#### END TWEEPY SETUP CODE
 
 ## Task 1 - Gathering data
 
