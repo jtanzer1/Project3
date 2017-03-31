@@ -1,6 +1,6 @@
 ## SI 206 Winter 2017
 ## Project 3
-## Building on HW6, HW7 (and some previous material!)
+# Building on HW6, HW7 (and some previous material!)
 
 ## NOTE: There are tests for this project, but the tests are NOT exhaustive -- you should pass them, but ONLY passing them is not necessarily sufficient to get 100% on the project. The caching must work correctly, the queries/manipulations must follow the instructions and work properly. You can ensure they do by testing just the way we always do in class -- try stuff out, print stuff out, use the SQLite DB Browser and see if it looks ok!
 
